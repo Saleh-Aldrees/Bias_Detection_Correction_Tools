@@ -1,5 +1,9 @@
 # Bias_Detection_Tools
 
+## Link to view all submission components
+
+https://github.com/Saleh-Aldrees/Bias_Detection_Correction_Tools/blob/main/index.html
+
 ## Description: 
 
 This repository is meant to address social bias issues in machine learning models in a healthcare setting. It targets binary classification problems by measuring social biases against certain demographic sub-groups in the predictions the model makes , mitigating those biases by focusing on improving the equalized odds metric , then measuring the social biases again to check the improvement in fairness metrics. 
